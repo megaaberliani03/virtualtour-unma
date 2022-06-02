@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Adobe Fangsong Std R";
+   src: url("fonts/AdobeFangsongStd-Regular.eot") format("embedded-opentype"), url("fonts/AdobeFangsongStd-Regular.otf") format("opentype"), url("fonts/AdobeFangsongStd-Regular.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Swis721 BlkCn BT";
+   src: url("fonts/Swis721 BlkCn BT Black.eot") format("embedded-opentype"), url("fonts/Swis721 BlkCn BT Black.ttf") format("truetype"), url("fonts/Swis721 BlkCn BT Black.woff") format("woff"), url("fonts/Swis721 BlkCn BT Black.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
